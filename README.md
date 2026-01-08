@@ -4,4 +4,4 @@ Procedimentos estão documentados na Wiki para melhor organização.
 
 ## 📚 Wiki 
 
-- 🔗 [Instalação do MariaDB e criação do Bando de Dados ‐ Servidor Radius.](../../HelpFreeBSD/wiki/Instalação-do-MariaDB-e-criação-do-Bando-de-Dados-‐-Servidor-Radius)
+- 🔗 [Instalação do MariaDB e criação do Bando de Dados ‐ Servidor Radius.](../HelpFreeBSD/wiki/Instalação-do-MariaDB-e-criação-do-Bando-de-Dados-‐-Servidor-Radius)
